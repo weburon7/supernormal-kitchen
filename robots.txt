@@ -1,3 +1,6 @@
-# Change to Allow: / at launch.
+# GitHub Pages project site: crawlers use the host-root /robots.txt.
+# Submit this project sitemap in Search Console.
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://weburon7.github.io/supernormal-kitchen/sitemap.xml

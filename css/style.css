@@ -6,5 +6,5 @@
 @import url('components/buttons.css?v=2');
 @import url('pages/home.css?v=2');
 @import url('pages/inner.css?v=2');
-@import url('pages/theme.css?v=2');
+@import url('pages/theme.css?v=3');
 .skip-link{position:absolute;left:10px;top:-100px;background:var(--ink);color:#fff;padding:12px;z-index:100}.skip-link:focus{top:10px}.eyebrow{font-size:.72rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase}.section{padding:var(--space-large) clamp(22px,5vw,90px)}.section-kicker{font-size:.73rem;letter-spacing:.17em;font-weight:700}.index-dot{display:inline-block;width:8px;height:8px;background:var(--coral);border-radius:50%;margin-right:10px}.reveal{opacity:0;transform:translateY(36px);transition:opacity .7s ease,transform .7s cubic-bezier(.2,.8,.2,1)}.reveal.is-visible{opacity:1;transform:translateY(0)}[data-tilt]{transform-style:preserve-3d;will-change:transform;transition:transform .4s ease}.demo-note{display:inline-block;background:#f7e4d7;color:var(--wine);font-size:.8rem;font-weight:700;padding:10px 14px;border-radius:5px;margin:24px 0 8px}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.reveal{opacity:1;transform:none;transition:none}[data-tilt]{transition:none!important;transform:none!important}}

@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Add full URLs at launch. -->
+  <url><loc>https://weburon7.github.io/supernormal-kitchen/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://weburon7.github.io/supernormal-kitchen/menu.html</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://weburon7.github.io/supernormal-kitchen/order.html</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://weburon7.github.io/supernormal-kitchen/about.html</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://weburon7.github.io/supernormal-kitchen/contact.html</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://weburon7.github.io/supernormal-kitchen/reservations.html</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://weburon7.github.io/supernormal-kitchen/gallery.html</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://weburon7.github.io/supernormal-kitchen/offers.html</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://weburon7.github.io/supernormal-kitchen/room.html</loc><lastmod>2026-11-02</lastmod></url>
 </urlset>
