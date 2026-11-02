@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="robots" content="noindex"/>
+<meta name="theme-color" content="#351b25"/>
+<meta name="description" content="Step inside Supernormal Kitchen's interactive dining room and explore the chef's table."/>
+<title>Dining Room | Supernormal Kitchen</title>
+<link rel="icon" href="favicon.ico"/>
+<link rel="manifest" href="site.webmanifest"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Syne:wght@500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="css/style.css?v=7"/>
+<link rel="stylesheet" href="css/home.css?v=9"/>
+<link rel="stylesheet" href="css/room.css?v=5"/>
+</head>
+<body data-page="room">
+<a class="skip-link" href="#main">Skip to dining room</a>
+<header class="room-header"><a class="room-brand" href="index.html"><img src="assets/images/brand/instagram-logo.png" alt=""/><span><b>supernormal</b><small>kitchen · dining room</small></span></a><div class="room-header-actions"><a class="room-order" href="order.html">Order <span aria-hidden="true">↗</span></a><button class="room-more-toggle" id="room-more-toggle" type="button" aria-expanded="false" aria-controls="room-more-nav"><span class="room-more-icon" aria-hidden="true">☰</span><span>Explore</span></button><nav class="room-more-nav" id="room-more-nav" aria-label="More pages" hidden><a href="index.html">Home</a><a href="menu.html">Full menu</a><a href="gallery.html">Gallery</a><a href="about.html">Our story</a><a href="reservations.html">Events &amp; reservations</a><a href="contact.html">Contact</a><a href="order.html#subscription">Breakfast plans</a><a href="offers.html">Festival offers</a><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a></nav></div></header>
+<main id="main"><section class="room-hero" aria-labelledby="room-heading">
+  <div class="room-stage" id="table-stage"><img class="room-fallback" src="assets/images/hero/olive-arch-room.webp" alt="Warm modern restaurant with a round central dining table and a framed menu on the wall"/><div class="table-loading" id="table-loading" role="status">Opening the dining room…</div><div class="dish-tooltip" id="dish-tooltip" role="status" hidden></div></div>
+  <div class="room-intro"><p class="eyebrow">WELCOME TO SUPERNORMAL KITCHEN</p><h1 id="room-heading">Take a seat.<br/><em>Stay curious.</em></h1><p>Choose a chair to sit down. The chef's specials are set on the table. Drag to look around the room.</p></div>
+  <div class="room-menu-toolbar" id="room-menu-toolbar" hidden aria-label="Wall menu controls"><button type="button" id="room-back">← Back to room</button><button type="button" id="poster-left" aria-pressed="false">Menu I</button><button type="button" id="poster-right" aria-pressed="false">Menu II</button><span class="zoom-controls"><button type="button" id="menu-zoom-out" aria-label="Zoom out">−</button><button type="button" id="menu-zoom-in" aria-label="Zoom in">+</button></span></div>
+  <div class="room-controls"><span id="seat-hint" aria-live="polite">Drag to look around · choose a chair to sit</span><button type="button" id="stand-up" hidden>↑ Get up</button></div>
+  <div class="seat-keyboard" role="group" aria-label="Choose a chair at the centre table"><button type="button" data-seat="0">Sit at chair 1</button><button type="button" data-seat="1">Sit at chair 2</button><button type="button" data-seat="2">Sit at chair 3</button><button type="button" data-seat="3">Sit at chair 4</button><button type="button" data-seat="4">Sit at chair 5</button><button type="button" data-seat="5">Sit at chair 6</button></div>
+</section>
+<section class="specials-list section" aria-labelledby="specials-heading"><div><p class="eyebrow">THE CHEF'S TABLE</p><h2 id="specials-heading">Eight very good reasons.</h2><p>Every special on the table, ready to explore.</p></div><div id="specials-list" class="specials-list-grid"><p>Loading specials…</p></div></section>
+<dialog class="dish-dialog" id="dish-dialog" aria-labelledby="dish-dialog-title"><button class="dish-dialog-close" type="button" aria-label="Close dish details">×</button><img id="dish-dialog-image" alt=""/><video id="dish-dialog-video" muted loop playsinline controls hidden></video><div class="dish-dialog-content"><p class="eyebrow" id="dish-dialog-source">FROM THE CHEF'S TABLE</p><h2 id="dish-dialog-title"></h2><p id="dish-dialog-description"></p><div class="dish-dialog-tags" id="dish-dialog-tags"></div><strong id="dish-dialog-price"></strong><div class="dish-dialog-actions"><a id="dish-order" class="button button-dark" href="order.html">Add to order ↗</a><a class="text-link" href="menu.html">View full menu ↗</a></div><small>Demo page. Orders are confirmed by the kitchen on WhatsApp.</small></div></dialog>
+<dialog id="wall-menu-dialog" class="wall-menu-dialog" aria-labelledby="wall-menu-title"><div class="wall-menu-head"><div><p class="eyebrow">SUPERNORMAL KITCHEN</p><h2 id="wall-menu-title">The full menu.</h2><p>Choose a dish to see its details.</p></div><button type="button" id="wall-menu-close" aria-label="Close full menu">×</button></div><label class="wall-menu-search">Find a dish <input id="wall-menu-search" type="search" placeholder="Search the menu" autocomplete="off"/></label><div id="wall-menu-list" class="wall-menu-list"></div></dialog>
+</main>
+<footer class="room-footer"><a href="index.html">Supernormal Kitchen</a><span>© <span id="year">2026</span> · Ludhiana</span><span><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a></span></footer>
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/"}}</script>
+<script type="module" src="js/specials.js?v=5"></script>
+<script defer src="js/script.js?v=3"></script>
+</body></html>

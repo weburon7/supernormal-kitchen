@@ -1,0 +1,208 @@
+{
+  "source": "Screenshots of linked Supernormal Kitchen artifact menu, supplied 2026-10-30",
+  "items": [
+    {
+      "category": "Breakfast Club",
+      "name": "Berry Bliss Açaí Bowl",
+      "price": "₹450 / ₹550",
+      "description": "Mixed berries and mango blend, coconut yoghurt swirl, house granola, pumpkin seeds and peanut butter.",
+      "allergens": "Peanut"
+    },
+    {
+      "category": "Breakfast Club",
+      "name": "Tropical Bowl",
+      "price": "₹450 / ₹550",
+      "description": "Mango smoothie base layered with coconut chia pudding and fresh strawberries.",
+      "allergens": "Peanuts, Cashews"
+    },
+    {
+      "category": "Breakfast Club",
+      "name": "Matcha & Pistachio Yoghurt Parfait",
+      "price": "₹200 / ₹280",
+      "description": "Matcha, pistachio and avocado yoghurt, layered with cocoa crunch and honey.",
+      "allergens": "Milk, Pistachio"
+    },
+    {
+      "category": "Breakfast Club",
+      "name": "Café Noir Dessert Jar",
+      "price": "₹200 / ₹280",
+      "description": "Coconut milk, oats, seasonal berries and unsweetened cocoa, topped with coconut yoghurt.",
+      "allergens": "Milk, Peanut"
+    },
+    {
+      "category": "Breakfast Club",
+      "name": "The Morning Roast",
+      "price": "₹200 / ₹280",
+      "description": "Tiramisu ritual: espresso chia pudding with a dusted cocoa finish.",
+      "allergens": "Milk"
+    },
+    {
+      "category": "Breakfast Club",
+      "name": "Mocha Baked Oats",
+      "price": "₹385",
+      "description": "Oats baked with chocolate and coffee, chilled, then topped with a mascarpone-yoghurt cream layer.",
+      "allergens": ""
+    },
+    {
+      "category": "Bites & Toasties",
+      "name": "The Peanut Snap",
+      "price": "₹300",
+      "description": "Sautéed beans and asparagus in chilli, garlic, peanut butter and soy glaze.",
+      "allergens": "Peanut, Soy, Wheat"
+    },
+    {
+      "category": "Bites & Toasties",
+      "name": "Ghee Podi Suji–Poha Bites",
+      "price": "₹300",
+      "description": "Flash-seared suji and poha bites tossed in gunpowder spice, curry leaves and mustard seeds.",
+      "allergens": "Wheat"
+    },
+    {
+      "category": "Bites & Toasties",
+      "name": "Thai Basil Rice Paper Parcels",
+      "price": "₹450",
+      "description": "Chicken or tofu with basil, wrapped in rice paper, with a sweet, umami and sour dressing.",
+      "allergens": "Soy"
+    },
+    {
+      "category": "Bites & Toasties",
+      "name": "Crushed Spud",
+      "price": "₹300",
+      "description": "Roasted smoky garlic smashed potatoes with herby yoghurt and chilli oil.",
+      "allergens": "Soy, Milk"
+    },
+    {
+      "category": "Bites & Toasties",
+      "name": "Cheese Toastie & Hot Honey",
+      "price": "₹350",
+      "description": "Paneer, yoghurt and chilli with a hot honey drizzle.",
+      "allergens": "Milk, Wheat"
+    },
+    {
+      "category": "Bites & Toasties",
+      "name": "Rustic Avo & Pea Toastie",
+      "price": "₹350",
+      "description": "Open-faced toast with avocado, smashed peas, feta and chilli oil.",
+      "allergens": "Wheat, Soy"
+    },
+    {
+      "category": "Salads",
+      "name": "The Supernormal Larb",
+      "price": "₹700",
+      "description": "Chicken or tofu mince tossed in chilli, lemon, soy and toasted rice, served with mint and lettuce.",
+      "allergens": "Soy, Wheat"
+    },
+    {
+      "category": "Salads",
+      "name": "Asian Crunch Paw Paw Salad",
+      "price": "₹700",
+      "description": "Raw papaya, green beans, spring onion and cherry tomatoes in our signature spicy soy dressing, with rice crispers.",
+      "allergens": "Soy, Peanuts"
+    },
+    {
+      "category": "Salads",
+      "name": "Summer Protein Pasta Bowl",
+      "price": "₹700",
+      "description": "Durum wheat pasta with lettuce, cherry tomatoes, corn, feta and avocado in a yoghurt peri-peri emulsion.",
+      "allergens": "Wheat, Milk"
+    },
+    {
+      "category": "Salads",
+      "name": "Zesty Avo Crunch",
+      "price": "₹700",
+      "description": "Grilled chicken or paneer, avocado and creamy jalapeño dressing, with crispy tortillas.",
+      "allergens": ""
+    },
+    {
+      "category": "Bowls & Mains",
+      "name": "Open Burrito Bowl",
+      "price": "₹750",
+      "description": "Chicken, mushroom or paneer with beans, pico de gallo, cheese, avocado, tomatillo, rice and corn chips.",
+      "allergens": "Milk"
+    },
+    {
+      "category": "Bowls & Mains",
+      "name": "Bang Bang Rice Bowl",
+      "price": "₹750",
+      "description": "Chicken or tofu in a spiced marinade with rice, carrot-cucumber salad, crushed peanuts and sweet-spicy peanut sauce.",
+      "allergens": "Soy, Peanuts, Wheat"
+    },
+    {
+      "category": "Bowls & Mains",
+      "name": "Tandoori Cottage Cheese Steak",
+      "price": "₹750",
+      "description": "Stuffed paneer steak with mashed potatoes and a tangy spiced tomato salsa.",
+      "allergens": "Milk"
+    },
+    {
+      "category": "Bowls & Mains",
+      "name": "Spiced Mutton Muse",
+      "price": "₹900",
+      "description": "Spiced mutton on silky pea purée with pickled radish. Add flatbread for ₹50.",
+      "allergens": ""
+    },
+    {
+      "category": "Bowls & Mains",
+      "name": "Lemon Pepper Chicken",
+      "price": "₹850",
+      "description": "Chicken in a coconut spiced curry, served with cumin and coriander flatbread.",
+      "allergens": "Milk"
+    },
+    {
+      "category": "Bowls & Mains",
+      "name": "Smoky Garlic Turmeric Chicken Drumsticks",
+      "price": "₹650",
+      "description": "With crispy roasted potatoes, basil-mint dressing and salad.",
+      "allergens": "Soy, Wheat"
+    },
+    {
+      "category": "Specials",
+      "name": "Mango Sticky Rice",
+      "price": "₹385",
+      "description": "Coconut sticky rice ringed with fresh mango slices and finished with toasted sesame.",
+      "allergens": ""
+    },
+    {
+      "category": "Clean Indulgence",
+      "name": "Tropical Sunset Cup",
+      "price": "₹200",
+      "description": "Coconut panna cotta layered with sweet mango compote. Your mango dessert in a jar.",
+      "allergens": ""
+    },
+    {
+      "category": "Clean Indulgence",
+      "name": "Velvet Cocoa Mousse",
+      "price": "₹200",
+      "description": "Smooth cocoa mousse made with fresh paneer, topped with strawberries and nuts.",
+      "allergens": "Milk, Nuts"
+    },
+    {
+      "category": "Clean Indulgence",
+      "name": "The Chocolate–Peanut Affair",
+      "price": "₹300",
+      "description": "Peanut butter mousse with chocolate ganache, made with silken tofu.",
+      "allergens": "Soy, Peanut"
+    },
+    {
+      "category": "Pantry Staples",
+      "name": "Cinnamon & Cocoa Granola",
+      "price": "₹350",
+      "description": "Small-batch slow-baked oats, almonds, cashews, pumpkin seeds and cranberries, finished with raw honey, cocoa and Ceylon cinnamon.",
+      "allergens": "Cashews, Almonds"
+    },
+    {
+      "category": "Pantry Staples",
+      "name": "Hot Honey",
+      "price": "₹250",
+      "description": "Golden honey infused with chilli for sweetness with a gentle heat.",
+      "allergens": "Soy"
+    },
+    {
+      "category": "Pantry Staples",
+      "name": "Supernormal Secret Dressing",
+      "price": "₹200",
+      "description": "Our house-made dressing, layered with umami, heat, freshness and depth.",
+      "allergens": "Soy, Wheat"
+    }
+  ]
+}

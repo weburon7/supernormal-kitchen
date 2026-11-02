@@ -1,0 +1,1 @@
+body{font-family:var(--font-body);line-height:1.55;color:var(--ink);background:var(--cream)}h1,h2,h3{font-family:var(--font-display);font-weight:500;line-height:1.08;letter-spacing:-.035em}em{font-weight:500;color:var(--wine)}p{max-width:65ch}::selection{background:var(--wine);color:var(--paper)}

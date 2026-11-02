@@ -1,0 +1,156 @@
+[
+  {
+    "id": "berry-bliss",
+    "name": "Berry Bliss Açaí Bowl",
+    "description": "Mixed berries and mango blend, coconut yoghurt swirl, house granola, pumpkin seeds and peanut butter.",
+    "price": "₹450 / ₹550",
+    "tags": [
+      "Breakfast",
+      "Contains peanuts"
+    ],
+    "image": "assets/images/dishes/berry-bliss-acai-bowl.webp",
+    "color": "#a34870",
+    "position": [
+      -1.42,
+      0.44,
+      -1.05
+    ],
+    "model": "jar",
+    "modelPath": "assets/models/berry-bliss-table.glb?v=2"
+  },
+  {
+    "id": "tropical-bowl",
+    "name": "Tropical Bowl",
+    "description": "Mango smoothie base layered with coconut chia pudding and fresh strawberries.",
+    "price": "₹450 / ₹550",
+    "tags": [
+      "Breakfast",
+      "Contains nuts"
+    ],
+    "image": "assets/images/gallery/tropical-bowl.webp",
+    "color": "#efaa3b",
+    "position": [
+      0,
+      0.44,
+      -1.42
+    ],
+    "model": "jar",
+    "modelPath": "assets/models/tropical-bowl-table.glb?v=2"
+  },
+  {
+    "id": "open-burrito",
+    "name": "Open Burrito Bowl",
+    "description": "Chicken, mushroom or paneer with beans, pico de gallo, cheese, avocado, tomatillo, rice and corn chips.",
+    "price": "₹750",
+    "tags": [
+      "Main",
+      "Protein choice"
+    ],
+    "image": "assets/images/gallery/open-burrito-bowl.webp",
+    "color": "#b75e3c",
+    "position": [
+      1.42,
+      0.44,
+      -1.05
+    ],
+    "model": "bowl",
+    "modelPath": "assets/models/open-burrito-table.glb?v=2"
+  },
+  {
+    "id": "bang-bang",
+    "name": "Bang Bang Rice Bowl",
+    "description": "Chicken or tofu in a spiced marinade with rice, carrot-cucumber salad, crushed peanuts and sweet-spicy peanut sauce.",
+    "price": "₹750",
+    "tags": [
+      "Main",
+      "Spicy"
+    ],
+    "image": "assets/images/gallery/bang-bang-rice-bowl.webp",
+    "color": "#c64639",
+    "position": [
+      -1.55,
+      0.44,
+      0.12
+    ],
+    "model": "bowl",
+    "modelPath": "assets/models/bang-bang-table.glb?v=2"
+  },
+  {
+    "id": "zesty-avo",
+    "name": "Zesty Avo Crunch",
+    "description": "Grilled chicken or paneer, avocado and creamy jalapeño dressing, with crispy tortillas.",
+    "price": "₹700",
+    "tags": [
+      "Salad",
+      "Protein choice"
+    ],
+    "image": "assets/images/dishes/zesty-avo-crunch.webp",
+    "color": "#85a66a",
+    "position": [
+      1.55,
+      0.44,
+      0.12
+    ],
+    "model": "plate",
+    "modelPath": "assets/models/zesty-avo-table.glb?v=2"
+  },
+  {
+    "id": "spiced-mutton",
+    "name": "Spiced Mutton Muse",
+    "description": "Spiced mutton on silky pea purée with pickled radish. Add flatbread for ₹50.",
+    "price": "₹900",
+    "tags": [
+      "Main",
+      "Mutton"
+    ],
+    "image": "assets/images/dishes/spiced-mutton-muse-poster.webp",
+    "color": "#709545",
+    "position": [
+      0,
+      0.44,
+      1.42
+    ],
+    "model": "bowl",
+    "video": "assets/video/spiced-mutton-muse-table.mp4",
+    "modelPath": "assets/models/spiced-mutton-table.glb?v=2"
+  },
+  {
+    "id": "mango-sticky",
+    "name": "Mango Sticky Rice",
+    "description": "Coconut sticky rice ringed with fresh mango slices and finished with toasted sesame.",
+    "price": "₹385",
+    "tags": [
+      "Dessert",
+      "Vegetarian"
+    ],
+    "image": "assets/images/dishes/mango-sticky-rice.webp",
+    "color": "#f3bb4a",
+    "position": [
+      -1.42,
+      0.44,
+      1.1
+    ],
+    "model": "plate",
+    "modelPath": "assets/models/mango-sticky-table.glb?v=2"
+  },
+  {
+    "id": "matcha-parfait",
+    "name": "Matcha & Pistachio Yoghurt Parfait",
+    "description": "Matcha, pistachio and avocado yoghurt, layered with cocoa crunch and honey.",
+    "price": "₹200 / ₹280",
+    "tags": [
+      "Breakfast",
+      "Contains milk",
+      "Contains pistachio"
+    ],
+    "image": "assets/images/gallery/matcha-pistachio-parfait.webp",
+    "color": "#9cae71",
+    "position": [
+      1.42,
+      0.44,
+      1.1
+    ],
+    "model": "jar",
+    "modelPath": "assets/models/matcha-parfait-table.glb?v=2"
+  }
+]
